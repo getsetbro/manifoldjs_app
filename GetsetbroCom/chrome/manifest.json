@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "http://getsetbro.com/ptoplanner/",
+    "version": "0.0.1",
+    "app": {
+        "launch": {
+            "web_url": "http://getsetbro.com/ptoplanner/"
+        }
+    },
+    "icons": {
+        "128": "icon128.png"
+    }
+}

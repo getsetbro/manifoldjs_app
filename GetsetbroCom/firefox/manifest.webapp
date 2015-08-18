@@ -1,0 +1,8 @@
+{
+    "name": "GetsetbroCom",
+    "description": "Content from http://getsetbro.com/ptoplanner/",
+    "launch_path": "/ptoplanner/",
+    "icons": {
+        "128": "icon128.png"
+    }
+}
